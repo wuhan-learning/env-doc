@@ -1,5 +1,7 @@
 # env-doc
 
+
+
 ##Resources: 
 
 `10.202.129.239`  
@@ -21,6 +23,11 @@ password: **********
 
 
 Jar/Image 仓库 10.202.129.239:8081
+
+
+
+
+`./honglai/artifactory-pro-6.1.0/bin/artifactoryctl start`
 
 
 
