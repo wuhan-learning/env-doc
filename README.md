@@ -35,5 +35,9 @@ GoCD 地址 http://10.202.129.239:8153/go/admin/pipeline/new?group=defaultGroup
 
 
 
+`sudo /etc/init.d/go-server start`
+
+
+
 GoAgent 地址 10.202.129.3
 
